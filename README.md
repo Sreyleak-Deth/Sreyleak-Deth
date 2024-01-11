@@ -5,9 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sreyleak-deth" alt="sreyleak-deth" /></a> </p>
 
-- 📫 How to reach me **sreyleak.deth19@gmail.com**
-
-- ⚡ Fun fact **I'm Introvert**
 
 
 <h3 align="left">Languages and Tools:</h3>
