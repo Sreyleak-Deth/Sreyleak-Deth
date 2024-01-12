@@ -15,4 +15,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sreyleak-deth&show_icons=true&locale=en" alt="sreyleak-deth" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sreyleak-deth&" alt="sreyleak-deth" /></p>
