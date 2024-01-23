@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sreyleak Deth</h1>
-<h3 align="center">A passionate Software Engineering Student from Cambodia</h3>
+<h3 align="center">A Passionate Software Engineering Student From Cambodia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sreyleak-deth&label=Profile%20views&color=0e75b6&style=flat" alt="sreyleak-deth" /> </p>
 
